@@ -42,6 +42,9 @@ public class ProdutoController {
             }
         }).orElse(null);
     }
-
+    @GetMapping("/produtosById/{id}")
+    public Optional<ProdutosEntity> getProdutoById(@PathVariable("id") int id) throws ProductsNotFoundException {
+        return serviceP.findProdutosById(id);
+    }
 
 }

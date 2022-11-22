@@ -41,4 +41,11 @@ public class ProdutosService {
         throw new ProductsNotFoundException("Product not found from "+categoria+" type");
     }
 
+    public Optional<ProdutosEntity> findProdutosById(int id) throws ProductsNotFoundException{
+        Optional<ProdutosEntity> Products = repositry.findById(id);
+        if(Products.isPresent())
+            return Products;
+        throw new ProductsNotFoundException("Product not found with "+ id +" id");
+    }
+
 }
