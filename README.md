@@ -22,7 +22,7 @@ O BD utilizado foi MySQL, certifique que está instalado na sua máquina.
 <br>
 2- Utilize a IDE de sua preferência, para efeito didático utilizarenos o Intellij  que é mais simples.
 <br>
-3-clique em File>Open e navegue até a pasta que salvou o projeto e clique no POM.xml
+3-clique em File>Open> (navegue até a pasta que salvou o projeto) >src> (e clique no POM.xml)
 <br>
 3- Espere carregar todas as dependências
 <br>
