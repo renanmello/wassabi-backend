@@ -13,4 +13,20 @@ Lombok
 Spring mySQL driver
 <br>
 Hibernate validation
+<br>
+Instruções Para rodar o projeto:
+<br>
+O BD utilizado foi MySQL, certifique que está instalado na sua máquina.
+<br>
+1- Clone o projeto para uma pasta local
+<br>
+2- Utilize a IDE de sua preferência, para efeito didático utilizarenos o Intellij  que é mais simples.
+<br>
+3-clique em File>Open e navegue até a pasta que salvou o projeto e clique no POM.xml
+<br>
+3- Espere carregar todas as dependências
+<br>
+4- Agora é so executar a classe principal Application padrão do Spring Boot.
+<br>
+5-Para visualizar o front end , siga o tutorial do repositório do wassabi-frontend.
 
