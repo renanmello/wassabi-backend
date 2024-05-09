@@ -20,7 +20,7 @@ O BD utilizado foi MySQL, certifique que está instalado na sua máquina.
 <br>
 1- Clone o projeto para uma pasta local
 <br>
-2- Utilize a IDE de sua preferência, para efeito didático utilizarenos o Intellij  que é mais simples.
+2- Utilize a IDE de sua preferência, para efeito didático utilizaremos o Intellij  que é mais simples.
 <br>
 3-clique em File>Open> (navegue até a pasta que salvou o projeto) >src> (e clique no POM.xml)
 <br>
