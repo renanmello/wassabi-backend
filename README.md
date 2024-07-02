@@ -24,9 +24,9 @@ Ensure MySQL is installed on your machine.
    ```sh
    git clone <repository_url>
    cd <repository_folder>
-Open in IDE
+2.Open in IDE
 
-2.Use your preferred IDE. For this example, we will use IntelliJ:
+Use your preferred IDE. For this example, we will use IntelliJ:
 
     Open IntelliJ.
     Navigate to File > Open.
