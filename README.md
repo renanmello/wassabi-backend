@@ -36,13 +36,13 @@ Open in IDE
 
 Wait for all the dependencies to load.
 
-Run the Application
+4.Run the Application
 
-4.Execute the main class:
+Execute the main class:
 
     Locate the main Application class in the project.
     Run the class to start the Spring Boot application.
 
-Frontend Setup
+5.Frontend Setup
 
 Follow the tutorial in the Wassabi Frontend Repository to set up and visualize the frontend.
