@@ -24,7 +24,7 @@ Ensure MySQL is installed on your machine.
    ```sh
    git clone <repository_url>
    cd <repository_folder>
-2.Open in IDE
+2. Open in IDE
 
 Use your preferred IDE. For this example, we will use IntelliJ:
 
@@ -32,17 +32,17 @@ Use your preferred IDE. For this example, we will use IntelliJ:
     Navigate to File > Open.
     Browse to the project folder and select POM.xml located in the src directory.
 
-3.Load Dependencies
+3. Load Dependencies
 
 Wait for all the dependencies to load.
 
-4.Run the Application
+4. Run the Application
 
 Execute the main class:
 
     Locate the main Application class in the project.
     Run the class to start the Spring Boot application.
 
-5.Frontend Setup
+5. Frontend Setup
 
 Follow the tutorial in the Wassabi Frontend Repository to set up and visualize the frontend.
